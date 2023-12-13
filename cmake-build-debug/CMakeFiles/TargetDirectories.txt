@@ -1,0 +1,3 @@
+C:/Users/Hp victus/Desktop/week-9-red-black-trees-Azizbek1308/cmake-build-debug/CMakeFiles/week_9_red_black_trees_Azizbek1308.dir
+C:/Users/Hp victus/Desktop/week-9-red-black-trees-Azizbek1308/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp victus/Desktop/week-9-red-black-trees-Azizbek1308/cmake-build-debug/CMakeFiles/rebuild_cache.dir
